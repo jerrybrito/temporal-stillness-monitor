@@ -1,0 +1,1 @@
+abstract-pause>=0.8.6
